@@ -1,0 +1,7 @@
+pydantic-settings
+pydantic
+groq
+langchain-groq
+langgraph
+langchain-community
+beautifulsoup4
