@@ -1,1 +1,1 @@
-*** Personal repo for practicing AI agent creation with LangGraph ***
+### Personal repo for practicing AI agent creation with LangGraph
